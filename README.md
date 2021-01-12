@@ -4,4 +4,4 @@
 GIF验证码  
 
 
-   <a href="code.iq36.com">测试地址</a>
+   <a href="code.iq36.com" target="_blank" >测试地址</a>
