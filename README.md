@@ -4,4 +4,4 @@
 GIF验证码  
 
 
-   <img src="http://code.iq36.com">
+  ![Alt text](http://code.iq36.com)
