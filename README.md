@@ -4,4 +4,4 @@
 GIF验证码  
 
 
-   <a href="code.iq36.com" target="_blank" >测试地址</a>
+   <img src="http://code.iq36.com/verify.php">
