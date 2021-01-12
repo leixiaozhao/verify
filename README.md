@@ -4,4 +4,4 @@
 GIF验证码  
 
 
-  ![Alt text](http://code.iq36.com)
+  ![Alt text](https://github.com/leixiaozhao/verify/blob/main/v.gif)
