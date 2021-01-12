@@ -4,4 +4,4 @@
 GIF验证码  
 
 
-  ![Alt text](https://github.com/leixiaozhao/verify/blob/main/v.gif)
+  ![image](https://github.com/leixiaozhao/verify/blob/main/v.gif)
